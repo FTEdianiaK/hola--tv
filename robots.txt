@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /assets/*
+Crawl-delay: 5
+
+Sitemap: http://hola--tv.neocities.org/sitemap.xml
